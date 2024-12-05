@@ -1,0 +1,39 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    border: none;
+}
+
+
+body {
+    background-color: red;
+    
+}
+
+h1 {
+    text-align: center;
+    color: yellow;
+    margin: 10%;
+}
+
+form {
+    text-align: center;
+    margin: 10%;
+}
+
+button {
+    color: red;
+}
+
+div {
+    text-align: center;
+    margin: 10px;
+    height: 5%;
+}
+
+div img {
+    width: 15%;
+}
+
